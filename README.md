@@ -1,2 +1,2 @@
 # Git_Main
-for test how to use submodel
+This is a main repo for test how to use submodel
