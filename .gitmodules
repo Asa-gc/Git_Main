@@ -4,6 +4,3 @@
 [submodule "3rd/Git_SubModel"]
 	path = 3rd/Git_SubModel
 	url = https://github.com/Asa-gc/Git_SubModel.git
-[submodule "3rd2/Git_SubModel"]
-	path = 3rd2/Git_SubModel
-	url = https://github.com/Asa-gc/Git_SubModel.git
